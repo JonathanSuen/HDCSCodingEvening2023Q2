@@ -8,10 +8,10 @@ The function should take 3 arguments, the red value, the green value and the blu
 
 The function should return the HEX value represented as a string. Example inputs and outputs can be found below:
 
-rgbToHex(255, 255, 255) --> "FFFFFF"
-rgbToHex(255, 255, 300) --> "FFFFFF"
-rgbToHex(0, 0, 0)       --> "000000"
-rgbToHex(148, 0, 211)   --> "9400D3"
+- rgbToHex(255, 255, 255) --> "FFFFFF"
+- rgbToHex(255, 255, 300) --> "FFFFFF"
+- rgbToHex(0, 0, 0)       --> "000000"
+- rgbToHex(148, 0, 211)   --> "9400D3"
 
 The use of any prebuilt hex conversion functions/libraries WILL NOT be allowed to solve this problem.
 
